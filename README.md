@@ -14,3 +14,8 @@
 * npm 安装wechat(命令 npm install wechat -save)
 * npm 安装依赖包(命令 npm install)
 * 启动项目(命令 npm start)(默认端口3000)
+
+# Logger
+## 加入日志功能
+* npm 安装fs(命令 npm install fs -save)
+* 在WeChat-Bot中创建文件夹log
